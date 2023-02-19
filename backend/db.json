@@ -1,0 +1,9 @@
+{
+      "empolyees":[
+            {
+                  "name":"ritesh",
+                  "gender":"male",
+                  "skills":["java","js","html","css"]
+            }
+      ]
+}
