@@ -5,6 +5,7 @@ import Read from "./components/crud/Read";
 import Update from "./components/crud/Update";
 import Delete from "./components/crud/Delete";
 import Context from "./components/contextAPI/Context";
+import Focus from "./components/customHook/Focus";
 
 const App = () => {
   return (
@@ -14,7 +15,9 @@ const App = () => {
       <Update />
       <Delete /> */}
       {/* <Portals /> */}
-      <Context />
+      {/* <Context /> */}
+      {/* <Focus /> */}
+     
     </div>
   );
 };
